@@ -2,5 +2,6 @@ Cargo.lock
 target
 tests/wasm/*wasm
 
+saved-state-root-hash.txt
 /target
 .env
